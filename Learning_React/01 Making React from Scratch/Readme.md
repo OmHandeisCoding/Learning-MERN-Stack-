@@ -9,6 +9,7 @@ const someElement = (
 gets converted to -->
 
 const reactElem = React.creatElement{
+     <br />
     'a',<br />
     {href:'https://google.com',target:'_blank'},<br />
     'click me to visit google',<br />
